@@ -1,0 +1,133 @@
+
+.markdown-preview-view h1,
+.markdown-source-view.mod-cm6 .cm-header-1 {
+  color: #4358e0; 
+}
+
+
+.markdown-preview-view h2,
+.markdown-source-view.mod-cm6 .cm-header-2 {
+  color: #401ebe; 
+}
+
+
+.markdown-preview-view h3,
+.markdown-source-view.mod-cm6 .cm-header-3 {
+  color: #38247e;
+}
+
+
+.markdown-preview-view h4,
+.markdown-source-view.mod-cm6 .cm-header-4 {
+  color: #5525ff; /
+}
+
+.callout {
+  border-left: 4px solid #6667AB; 
+  background-color: #e0e1f0;     
+  color: #2e2f55;                 
+}
+
+
+.callout-title {
+  background-color: #6667AB;      
+  color: #ffffff;                 
+}
+
+.callout-title .callout-icon {
+  color: #ffffff;              
+}
+
+.callout-content {
+  color: #2e2f55;                 
+}
+
+.callout[data-callout="info"],
+.callout[data-callout="tip"],
+.callout[data-callout="warning"],
+.callout[data-callout="danger"],
+.callout[data-callout="example"],
+.callout[data-callout="note"] {
+  border-left-color: #6667AB;
+  background-color: #e0e1f0;
+}
+
+
+:root {
+  --very-peri: #6667AB;
+  --very-peri-light: #e0e1f0;
+  --very-peri-dark: #2e2f55;
+}
+
+
+input[type="checkbox"] {
+  accent-color: var(--very-peri); 
+}
+
+
+.cm-formatting-task,
+input.task-list-item-checkbox {
+  border: 2px solid var(--very-peri);
+  background-color: white;
+}
+
+input.task-list-item-checkbox:checked {
+  background-color: var(--very-peri);
+  border-color: var(--very-peri-dark);
+}
+
+
+.markdown-preview-view a,
+.markdown-source-view.mod-cm6 .cm-link,
+.cm-url {
+  color: var(--very-peri);
+}
+
+.markdown-preview-view a:hover,
+.cm-link:hover {
+  color: var(--very-peri-dark);
+  text-decoration: underline;
+}
+
+
+span.cm-hashtag,
+a.tag {
+  background-color: var(--very-peri-light);
+  color: var(--very-peri-dark);
+  border-radius: 5px;
+  padding: 2px 6px;
+  font-weight: 500;
+}
+
+
+.markdown-preview-view code,
+.cm-s-obsidian span.cm-inline-code {
+  background-color: var(--very-peri-light);
+  color: var(--very-peri-dark);
+  border-radius: 4px;
+  padding: 2px 4px;
+}
+
+pre code {
+  background-color: var(--very-peri-light);
+  color: var(--very-peri-dark);
+  border-left: 4px solid var(--very-peri);
+  padding: 0.75em;
+  border-radius: 5px;
+}
+
+
+.markdown-preview-view blockquote {
+  border-left: 4px solid var(--very-peri);
+  background-color: var(--very-peri-light);
+  color: var(--very-peri-dark);
+  padding: 0.5em 1em;
+  border-radius: 5px;
+}
+
+
+a.tag:hover {
+  background-color: var(--very-peri);
+  color: white;
+}
+
