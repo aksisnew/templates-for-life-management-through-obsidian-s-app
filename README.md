@@ -8,6 +8,8 @@ this is a repository dedicated to templates for obsidian's app (again not made b
 - make a folder in your vault for these templates and replicate the template for each day or week or 3 month's period and enjoy fullfilling your tasks!!
   yuppy!!
 
+# Secondaly you can also use this whole repository as a structured vault to manage almost all aspects of your life in obsidian or any md based note app how is it?
+
 ## specifically tailored for jee,neet and college people out there!
 ## specifically tailored for mobile app
 just download these mark down templates and then make the dailytemplate.md repeat each day and open every time vault opens in obsidian's mobile app
