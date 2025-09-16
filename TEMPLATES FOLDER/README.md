@@ -1,0 +1,1 @@
+# remember to enable core plugin of template in the obsidian's vault settings and add "TEMPLATE FOLDER" as the templates folder in the plugin settings of template
