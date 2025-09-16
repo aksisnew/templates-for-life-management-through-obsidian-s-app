@@ -1,0 +1,1 @@
+# here you can just duplicate the templates from other templates folder and fill your values and use them to manage your life
