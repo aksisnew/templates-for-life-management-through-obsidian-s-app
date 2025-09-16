@@ -1,0 +1,1 @@
+# here you can add the subjectwise structure for different subjects fromm the template in other template's folder named exam mark structure
