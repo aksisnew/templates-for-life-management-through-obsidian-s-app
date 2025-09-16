@@ -1,0 +1,1 @@
+# here you can make your WEEKLY plan files with the template "weeklytemplate" in the "TEMPLATES FOLDER" which is the templates folder
