@@ -4,7 +4,7 @@
 
 <br>
 
-## here are your dweekly tasks that you will be doing eachday till the end of this week
+## here are your weekly tasks that you will be doing eachday till the end of this week
 
 ### MOST IMPORTANT
 - [ ] Task 1
