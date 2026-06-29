@@ -13,3 +13,7 @@ this is a repository dedicated to templates for obsidian's app (again not made b
 ## specifically tailored for jee,neet and college people out there!
 ## specifically tailored for mobile app
 just download these mark down templates and then make the dailytemplate.md repeat each day and open every time vault opens in obsidian's mobile app
+
+## Usage examples
+1. If you are a working professional of any fieldthis will seriously help you to organize your life better like it did to me
+2. If you are in college that is graduation phase it highly helps there.
