@@ -11,8 +11,8 @@
 
 ### Achievements
 - Completed Project A
-- Launched YouTube Channel
-- Built Obsidian Templates Repo
+- Baught a Phone I wanted always
+- Built Templates Repo
 
 ---
 
