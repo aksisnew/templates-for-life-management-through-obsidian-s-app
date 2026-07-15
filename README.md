@@ -17,3 +17,8 @@ just download these mark down templates and then make the dailytemplate.md repea
 ## Usage examples
 1. If you are a working professional of any fieldthis will seriously help you to organize your life better like it did to me
 2. If you are in college that is graduation phase it highly helps there.
+
+## Main things 
+1. The main thing is to just manage almost evrything life by offloading evrything in form of notes. This clears your mind and clears your mind and provides a better clarity.
+2. The next thing is to balance evrything in life and not just work and productivity.
+3. Productivity is just one part while others are important too.
